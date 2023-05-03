@@ -18,4 +18,3 @@ print(chain.run({"entity": 'company', "product":'colorful socks'}))
 print(chain.run({"entity": 'CEO', "product":'colorful socks'}))
 print(chain.run({"entity": 'company', "product":'chocolate pizza'}))
 print(chain.run({"entity": 'CEO', "product":'chocolate pizza'}))
-
