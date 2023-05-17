@@ -1,0 +1,9 @@
+Summarization
+Deepgram’s Summarization feature summarizes sections of content in submitted audio and returns these summaries in the JSON response. When Summarization is enabled, the Punctuation feature will be enabled by default.
+
+Use Cases
+Some examples of uses for Summarization include:
+
+Customers who want to reduce manual effort by automatically generating call notes and meeting summaries.
+Customers who need to navigate through a large number of calls and analyze important conversations through generated summaries.
+Podcast listeners who want to identify interesting conversations through auto-generated, meaningful podcast previews.
